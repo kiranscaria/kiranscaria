@@ -21,14 +21,7 @@ Got thoughts on AI, tech, photography, or life's big questions? I'd love to chat
 Here's to creating something extraordinary together. ✨
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranscaria&theme=radical" alt="GitHub Streak" />
-
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=kiranscaria&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   
