@@ -26,15 +26,8 @@ Here's to creating something extraordinary together. ✨
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranscaria&show_icons=true&theme=radical" alt="Kiran's GitHub Stats" />
-  
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranscaria&theme=radical" alt="GitHub Streak" />
-  
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranscaria&theme=redical" alt="Kiran's GitHub Activity Graph" />
 
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=kiranscaria&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
