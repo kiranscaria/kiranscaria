@@ -1,6 +1,6 @@
 # Hey there, I'm Kiran Scaria! 👋
 
-Tech Lead @ [Raga AI](https://raga.ai/) | AI Enthusiast | Photographer
+Principal AI Engineer | AI Enthusiast | Photographer
 
 I'm passionate about artificial intelligence and its potential to shape the future. From machine learning to neural networks, I love building tools that blend innovation with real-world impact. Here's a peek at what I've been up to:
 
